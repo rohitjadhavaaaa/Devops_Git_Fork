@@ -1,0 +1,5 @@
+<html>
+<titile WELCOME TO INTELLIPAAT</>
+<h1 Course Offered </h1>
+<h2 AWS Linux OS Azure </h2>
+
